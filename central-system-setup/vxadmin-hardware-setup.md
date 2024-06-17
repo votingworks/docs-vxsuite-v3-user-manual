@@ -71,11 +71,11 @@ description: >-
 
 <div>
 
-<figure><img src="../.gitbook/assets/VxAdmin case open laptop out.png" alt=""><figcaption><p>Remove laptop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/VxAdmin remove laptop.png" alt=""><figcaption><p>Remove laptop</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/VxAdmin case open.png" alt=""><figcaption><p>Remove components</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/VxAdmin remove components.png" alt=""><figcaption><p>Remove components</p></figcaption></figure>
 
  
 
