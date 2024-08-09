@@ -46,8 +46,8 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 1. Insert Election Manager Card
 2. Select CVRs and Logs from the side menu
 3. Insert a USB drive
-4. Select _`Save CVRs`_
-5. Select_`Save Log File`_
+4. Select _`Save Log File`_
+5. Select _`Save CVRs`_
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="265"><figcaption></figcaption></figure>
 
@@ -57,7 +57,7 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 
 ### Removing Election Files
 
-In VxAdmin, log in with a System Administrator Card, select Definition from the side menu and select _`Unconfigure Machine`_.
+In VxAdmin, log in with a System Administrator Card, select Election from the side menu and select _`Unconfigure Machine`_.
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="267"><figcaption></figcaption></figure>
 

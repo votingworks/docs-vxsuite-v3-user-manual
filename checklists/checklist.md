@@ -74,9 +74,10 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 **Pack up the scanner**:
 
 * [ ] insert Poll Worker Card and select _`Power Down`_ to turn VxScan off
+* [ ] remove Poll Worker Card
 * [ ] unplug the power cord from the case
 * [ ] unplug the power cord from the outlet or UPS power backup
-* [ ] insert the power cord into it's storage place
+* [ ] insert the power cord into its storage place
 * [ ] close the case lid
 * [ ] seal and document the case as required
 * [ ] remove the case from the ballot box by lifting and unhooking the latch on the back of the case, remove and document the seal as required

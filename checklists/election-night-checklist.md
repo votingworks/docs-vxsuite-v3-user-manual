@@ -17,6 +17,5 @@ On election night, you will need [VxAdmin](../central-system-setup/vxadmin-hardw
 * [ ] _`Mark Election Results as Official`_ in VxAdmin
 * [ ] select Reports from the side menu, print and save an _`Official Full Election Tally Report`_ as a .pdf and .csv for the results&#x20;
 * [ ] select Reports from the side menu, print or save an official _`Write-in Adjudication Report`_
-* [ ] remove Election Manager Card
 * [ ] pack up VxAdmin, seal and document as required
 * [ ] secure USB drive(s) as required

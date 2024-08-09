@@ -22,8 +22,9 @@ To prepare for an election, complete the following steps:
 * [ ] insert Election Manager Card
 * [ ] select CVRs and Logs from the side menu
 * [ ] insert a USB drive
-* [ ] select _`Save CVRs`_
 * [ ] select_`Save Log File`_
+* [ ] select _`Save CVRs`_
+* [ ] select _`Eject USB`_
 
 ##
 
@@ -60,6 +61,7 @@ To prepare for an election, complete the following steps:
 * [ ] insert desired card into the card reader&#x20;
 * [ ] select the correct button for the card you are programming
 * [ ] for Election Manager Card, record the PIN and keep secure&#x20;
+* [ ] repeat for all cards you need to program
 * [ ] lock VxAdmin (skip if continuing to the next section)
 * [ ] securely store all cards
 
@@ -85,6 +87,7 @@ To prepare for an election, complete the following steps:
 * [ ] select _`Save`_
 * [ ] select _`Eject USB`_&#x20;
 * [ ] after VxAdmin confirms USB ejection, it is safe to remove the USB drive
+* [ ] repeat for all USB drives you need
 * [ ] securely store Election Manager Card
 
 ### Configure VxScans
@@ -93,4 +96,7 @@ To prepare for an election, complete the following steps:
 * [ ] insert USB drive with the Election Package from VxAdmin
 * [ ] verify the title and date of election are correct
 * [ ] note VxScan will be in Test Ballot Mode
+* [ ] remove Election Manager Card
 * [ ] securely store Election Manager Card
+* [ ] repeat on each VxScan
+
