@@ -39,7 +39,7 @@ After you insert the USB drive, VxScan will automatically begin loading all ball
 
 ## Setting Mode
 
-Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ballot Mode`_. The machine must be in Official Ballot Mode on Election Day.  Review the [L\&A Overview instructions](../logic-and-accuracy-pre-election-testing/l-and-a-checklist.md) to understand which mode to use during L\&A testing.
+Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ballot Mode`_. The machine must be in Official Ballot Mode on Election Day.  Review the [L\&A Overview instructions](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md) to understand which mode to use during L\&A testing.
 
 <figure><img src="../.gitbook/assets/image (113).png" alt="" width="375"><figcaption></figcaption></figure>
 

@@ -27,7 +27,7 @@ Requirement **3.1.5-F** is covered by the User Manual in it's entirety.
 {% endhint %}
 
 {% hint style="success" %}
-Requirement **3.1.5-H** is covered by [L\&A Overview](../logic-and-accuracy-pre-election-testing/l-and-a-checklist.md) and [L\&A Cleanup](../logic-and-accuracy-pre-election-testing/prepare-for-election-day.md).
+Requirement **3.1.5-H** is covered by [L\&A Overview](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md) and [L\&A Cleanup](../logic-and-accuracy-pre-election-testing/prepare-for-election-day.md).
 {% endhint %}
 
 {% hint style="success" %}

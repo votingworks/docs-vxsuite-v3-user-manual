@@ -22,7 +22,7 @@
 
 ## Logic & Accuracy Pre-Election Testing
 
-* [L\&A Overview](logic-and-accuracy-pre-election-testing/l-and-a-checklist.md)
+* [L\&A Overview](logic-and-accuracy-pre-election-testing/l-and-a-overview.md)
 * [L\&A Cleanup](logic-and-accuracy-pre-election-testing/prepare-for-election-day.md)
 
 ## Election Day Guides
