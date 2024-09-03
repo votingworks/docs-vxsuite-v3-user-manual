@@ -41,7 +41,7 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] select _`Power Down`_
 * [ ] remove Poll Worker Card
 * [ ] remove the USB drive from the interior panel&#x20;
-* [ ] insert a new USB drive with election package from VxAdmin
+* [ ] insert a new USB drive
 * [ ] unplug the power cord from VxScan and the outlet
 * [ ] insert the power cord into its storage location
 * [ ] clean the scanning unit
