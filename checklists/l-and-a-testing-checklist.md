@@ -61,4 +61,4 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] verify there are no CVRs on VxAdmin
 * [ ] power down the VxAdmin
 * [ ] pack up VxAdmin
-* [ ] close, seal, and document the VxScan case as required
+* [ ] close, seal, and document the VxAdmin case as required
