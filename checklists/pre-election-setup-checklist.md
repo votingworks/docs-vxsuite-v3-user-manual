@@ -58,7 +58,7 @@ To prepare for an election, complete the following steps:
 
 * [ ] insert System Administrator Card
 * [ ] select Smartcards from the side menu
-* [ ] insert desired card into the card reader&#x20;
+* [ ] insert desired card into the card reader (unprogram if necessary)
 * [ ] select the correct button for the card you are programming
 * [ ] for Election Manager Card, record the PIN and keep secure&#x20;
 * [ ] repeat for all cards you need to program
