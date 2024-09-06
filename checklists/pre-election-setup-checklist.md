@@ -39,15 +39,15 @@ To prepare for an election, complete the following steps:
 
 &#x20;  **VxScan**
 
-* [ ] insert Election Manager Card&#x20;
+* [ ] insert Election Manager or System Administrator Card
 * [ ] select _`Unconfigure Machine`_
-* [ ] securely store Election Manager Card
+* [ ] securely store Election Manager or System Administrator Card
 
 ### Configure VxAdmin
 
 * [ ] set up VxAdmin
 * [ ] insert System Administrator Card
-* [ ] insert USB containing Election Package
+* [ ] insert USB drive containing Election Package
 * [ ] select the file name of the correct election package
 * [ ] verify the title and date of election are correct
 * [ ] select Settings from the side menu and verify the current time and date are correct&#x20;
