@@ -88,6 +88,7 @@ To prepare for an election, complete the following steps:
 * [ ] select _`Eject USB`_&#x20;
 * [ ] after VxAdmin confirms USB ejection, it is safe to remove the USB drive
 * [ ] repeat for all USB drives you need
+* [ ] lock the machine
 * [ ] securely store Election Manager Card
 
 ### Configure VxScans
