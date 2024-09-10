@@ -13,16 +13,16 @@ On election night, you will need [VxAdmin](../central-system-setup/vxadmin-hardw
 * [ ] add Manual Tallies (select Tally from the side menu) (when applicable)
 * [ ] select Reports from the side menu, review, print, or save an _`Full Election Tally Report`_ for the results&#x20;
 * [ ] select Reports from the side menu, review, print, or save a _`Write-in Adjudication Report`_
+* [ ] verify all steps above are fully completed and reports reflect all ballots and adjudication
+* [ ] _`Mark Election Results as Official`_ in VxAdmin
+* [ ] select Reports from the side menu, print and save an _`Full Election Tally Report`_ as a .pdf and .csv for the results&#x20;
+* [ ] select Reports from the side menu, print or save an official _`Write-in Adjudication Report`_
 * [ ] lock the machine
 * [ ] insert System Administrator Card
 * [ ] select Settings from the side menu&#x20;
 * [ ] select _`Save Log File`_
 * [ ] eject and remove the USB drive
 * [ ] turn off the VxAdmin by pressing and holding the power button for a second and releasing
-* [ ] verify all steps above are fully completed and reports reflect all ballots and adjudication
-* [ ] _`Mark Election Results as Official`_ in VxAdmin
-* [ ] select Reports from the side menu, print and save an _`Full Election Tally Report`_ as a .pdf and .csv for the results&#x20;
-* [ ] select Reports from the side menu, print or save an official _`Write-in Adjudication Report`_
 * [ ] pack up VxAdmin, seal and document as required
 
 **VxScan CVR Files**
