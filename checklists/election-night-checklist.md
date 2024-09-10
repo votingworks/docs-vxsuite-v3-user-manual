@@ -31,6 +31,5 @@ On election night, you will need [VxAdmin](../central-system-setup/vxadmin-hardw
 * [ ] select CVRs and Logs from the side menu
 * [ ] insert a USB drive
 * [ ] select_`Save Log File`_
-* [ ] select _`Save CVRs`_
 * [ ] select _`Eject USB`_
 * [ ] secure USB drive(s) as required
