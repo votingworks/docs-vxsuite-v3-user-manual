@@ -2,16 +2,16 @@
 
 ### [VxScan Setup](checklist.md#vxscan-setup)
 
-**Setup the ballot box:**
+**Setup the hard-sided ballot box:**
 
 * [ ] open the velcro on the top and bottom of each side
 * [ ] pull the box open
 * [ ] using the yellow strap, lay the bottom down
-* [ ] latch the side to the bottom
+* [ ] latch the bottom to the side
 * [ ] pull the other yellow strap to bring the locking arm down
 * [ ] pull the top up
 * [ ] secure the top by pushing the locking arm back up
-* [ ] check the top surface to ensure that the side panels are properly interfacing with the top panel
+* [ ] check the top surface to ensure that the side panels are properly connected with the top panel
 * [ ] confirm ballot box is empty
 * [ ] seal or lock the ballot box door as required
 * [ ] confirm the auxiliary bin is empty
@@ -19,7 +19,7 @@
 
 **Setup the scanner:**
 
-* [ ] place the case on top of the ballot box by (1) lining up the case bracket with the bracket holes on the ballot box and (2) pushing the case back to secure in place
+* [ ] place the case on top of the ballot box by (1) lining up the case bracket with the bracket brace on the ballot box and (2) pushing the case back to secure in place
 * [ ] latch and seal the case to the ballot box from the backside of the case
 * [ ] document the latch seal
 * [ ] remove and document the scanner case seal(s)
@@ -85,14 +85,13 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 
 * [ ] unseal and/or unlock the ballot box door
 * [ ] remove all ballots from the ballot box and seal into a secure container, recording the seal number as required
-* [ ] close the ballot box door
 * [ ] unseal and/or unlock the auxiliary bin door
 * [ ] remove all ballots from the auxiliary bin and secure for tally
-* [ ] pull the locking arm down
+* [ ] while holding the top, pull the yellow strap to pull the locking arm down
 * [ ] push the top down
 * [ ] push the locking arm back up
 * [ ] unlatch the bottom from the side
-* [ ] using the yellow strap, pull the bottom up
+* [ ] using the other yellow strap, pull the bottom up
 * [ ] close the box
 * [ ] velcro the top and bottom of each side
 * [ ] turn off and store the UPS power backup

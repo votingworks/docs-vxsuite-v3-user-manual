@@ -1,5 +1,9 @@
 # Pre-Election Setup Checklist
 
+{% hint style="warning" %}
+If all files were saved on election night or post-election, skip to Remove Previous Election Files.
+{% endhint %}
+
 To prepare for an election, complete the following steps:
 
 ### Retain Previous Election Files
@@ -33,15 +37,16 @@ To prepare for an election, complete the following steps:
 &#x20;  **VxAdmin**
 
 * [ ] insert System Administrator Card
-* [ ] select Definition from the side menu
+* [ ] select Election from the side menu
 * [ ] select _`Unconfigure Machine`_
+* [ ] lock VxAdmin (skip if continuing to the next section)
 * [ ] securely store System Administrator Card
 
 &#x20;  **VxScan**
 
 * [ ] insert Election Manager or System Administrator Card
 * [ ] select _`Unconfigure Machine`_
-* [ ] securely store Election Manager or System Administrator Card
+* [ ] remove and securely store Election Manager or System Administrator Card
 
 ### Configure VxAdmin
 
@@ -70,13 +75,10 @@ To prepare for an election, complete the following steps:
 * [ ] insert System Administrator Card
 * [ ] select Settings from the side menu and select _`Format USB`_
 * [ ] confirm you want to format the USB drive by selecting _`Format USB`_
-* [ ] confirm again by selecting  _`Format USB`_
+* [ ] confirm again by selecting _`Format USB`_
 * [ ] repeat for all USB drives you need to format
 * [ ] lock VxAdmin
-* [ ] securely store System Administrator Card\
-
-
-
+* [ ] securely store System Administrator Card
 
 ### Save Election Package
 
