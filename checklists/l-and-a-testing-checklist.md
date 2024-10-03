@@ -64,6 +64,6 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] select _`Remove manual tallies`_
 * [ ] verify there are no CVRs on VxAdmin
 * [ ] power down the VxAdmin
-* [ ] remove usb and secure as required
+* [ ] remove and secure the USB drive as required
 * [ ] pack up VxAdmin
 * [ ] close, seal, and document the VxAdmin case as required
