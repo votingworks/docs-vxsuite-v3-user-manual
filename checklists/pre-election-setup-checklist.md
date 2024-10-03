@@ -82,20 +82,21 @@ To prepare for an election, complete the following steps:
 
 * [ ] insert System Administrator Card
 * [ ] select Settings from the side menu and select _`Format USB`_
-* [ ] insert USB
+* [ ] insert a USB drive
 * [ ] confirm you want to format the USB drive by selecting _`Format USB`_
 * [ ] confirm again by selecting _`Format USB`_
-* [ ] remove USB
+* [ ] remove the USB drive
 * [ ] repeat for all USB drives you need to format
 * [ ] lock VxAdmin
 * [ ] securely store System Administrator Card
 
 ### Save Election Package
 
+* [ ] lock VxAdmin if currently logged in as a System Administrator
 * [ ] insert Election Manager Card
 * [ ] select Election from the side menu in VxAdmin
 * [ ] select _`Save Election Package`_&#x20;
-* [ ] insert USB drive when prompted
+* [ ] insert a USB drive
 * [ ] select _`Save`_
 * [ ] select _`Eject USB`_
 * [ ] after VxAdmin confirms USB ejection, it is safe to remove the USB drive

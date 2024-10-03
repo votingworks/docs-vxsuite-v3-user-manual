@@ -35,10 +35,6 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] select _`Official Ballot Mode`_
 * [ ] verify Ballots Scanned count is 0
 * [ ] remove Election Manager Card
-* [ ] insert Poll Worker Card
-* [ ] select _`No`_
-* [ ] select _`Power Down`_
-* [ ] remove Poll Worker Card
 * [ ] remove the USB drive from the interior panel and secure&#x20;
 * [ ] insert a new formatted USB drive
 * [ ] unplug the power cord from VxScan and the outlet
