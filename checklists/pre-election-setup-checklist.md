@@ -52,7 +52,7 @@ To prepare for an election, complete the following steps:
 
 * [ ] insert Election Manager or System Administrator Card
 * [ ] select _`Unconfigure Machine`_
-* [ ] remove and securely store Election Manager or System Administrator Card
+* [ ] securely store Election Manager or System Administrator Card
 
 ### Configure VxAdmin
 
