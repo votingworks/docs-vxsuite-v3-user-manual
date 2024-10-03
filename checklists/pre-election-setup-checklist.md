@@ -10,7 +10,9 @@ To prepare for an election, complete the following steps:
 
 &#x20; **VxAdmin**
 
+* [ ] setup VxAdmin
 * [ ] insert Election Manager Card
+* [ ] insert a USB drive
 * [ ] select Reports from the side menu&#x20;
 * [ ] select _`Full Election Tally Report`_
 * [ ] select _`Export Report PDF`_
@@ -19,6 +21,9 @@ To prepare for an election, complete the following steps:
 * [ ] insert System Administrator Card
 * [ ] select Settings from the side menu&#x20;
 * [ ] select _`Save Log File`_
+* [ ] select _`eject USB`_
+* [ ] remove, and securely store USB drive
+* [ ] lock VxAdmin
 
 &#x20;  **VxScan CVR Files**
 
@@ -27,8 +32,9 @@ To prepare for an election, complete the following steps:
 * [ ] select CVRs and Logs from the side menu
 * [ ] insert a USB drive
 * [ ] select_`Save Log File`_
-* [ ] select _`Save CVRs`_
+* [ ] select _`Save CVRs (this may take a few minutes)`_
 * [ ] select _`Eject USB`_
+* [ ] remove USB
 
 ##
 
@@ -55,6 +61,8 @@ To prepare for an election, complete the following steps:
 * [ ] insert USB drive containing Election Package
 * [ ] select the file name of the correct election package
 * [ ] verify the title and date of election are correct
+* [ ] select _`Eject USB`_
+* [ ] remove, and securely store USB drive
 * [ ] select Settings from the side menu and verify the current time and date are correct&#x20;
 * [ ] lock VxAdmin (skip if continuing to the next section)
 * [ ] securely store System Administrator Card
@@ -74,8 +82,10 @@ To prepare for an election, complete the following steps:
 
 * [ ] insert System Administrator Card
 * [ ] select Settings from the side menu and select _`Format USB`_
+* [ ] insert USB
 * [ ] confirm you want to format the USB drive by selecting _`Format USB`_
 * [ ] confirm again by selecting _`Format USB`_
+* [ ] remove USB
 * [ ] repeat for all USB drives you need to format
 * [ ] lock VxAdmin
 * [ ] securely store System Administrator Card
@@ -87,7 +97,7 @@ To prepare for an election, complete the following steps:
 * [ ] select _`Save Election Package`_&#x20;
 * [ ] insert USB drive when prompted
 * [ ] select _`Save`_
-* [ ] select _`Eject USB`_&#x20;
+* [ ] select _`Eject USB`_
 * [ ] after VxAdmin confirms USB ejection, it is safe to remove the USB drive
 * [ ] repeat for all USB drives you need
 * [ ] lock VxAdmin

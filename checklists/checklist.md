@@ -1,4 +1,4 @@
-# Poll Worker Checklist
+# Election Day Checklist
 
 ### [VxScan Setup](checklist.md#vxscan-setup)
 
@@ -16,6 +16,21 @@
 * [ ] seal or lock the ballot box door as required
 * [ ] confirm the auxiliary bin is empty
 * [ ] seal or lock the auxiliary bin door as required
+
+#### Setup the soft-sided ballot box
+
+* [ ] place ballot box upright with wheels on the ground
+* [ ] press on silver latches to unlatch and expand the box
+* [ ] pull until all latches slide into place
+* [ ] pull top panel from inside box
+* [ ] lower floor panel
+* [ ] place top panel on side rails and zip into place
+* [ ] seal top panel zippers
+* [ ] confirm ballot box is empty
+* [ ] seal the ballot box zippers
+* [ ] confirm auxiliary bin is empty
+* [ ] seal auxiliary bin is empty
+* [ ] document seals as required
 
 **Setup the scanner:**
 
@@ -63,6 +78,10 @@
 * [ ] select _`Print Additional Polls Closed Report`_ to print more
 * [ ] retain and/or display the Polls Closed Report as instructed by your election administrator
 * [ ] remove Poll Worker Card
+* [ ] insert Election Manager Card
+* [ ] select CVRs and Logs from the side menu
+* [ ] select_`Save Log File`_
+* [ ] remove Election Manager Card
 * [ ] remove the USB drive from the interior panel and secure as required
 
 {% hint style="warning" %}
@@ -81,7 +100,7 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 * [ ] remove the case from the ballot box by lifting and unhooking the latch on the back of the case, remove and document the seal as required
 * [ ] pull the case forward and lift the case off of the ballot box
 
-**Pack up the ballot box:**
+**Pack up the hard-sided ballot box:**
 
 * [ ] unseal and/or unlock the ballot box door
 * [ ] remove all ballots from the ballot box and seal into a secure container, recording the seal number as required
@@ -96,3 +115,16 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 * [ ] velcro the top and bottom of each side
 * [ ] turn off and store the UPS power backup
 
+#### Pack up soft-sided ballot box:
+
+* [ ] unseal and/or unlock the ballot box access panel
+* [ ] remove all ballots from the ballot box and seal into a secure container, recording the seal number as required
+* [ ] unseal and/or unlock the auxiliary bin door
+* [ ] remove all ballots from the auxiliary bin and secure for tally
+* [ ] hold the top, unzip and lift top
+* [ ] reach into box and lift floor panel
+* [ ] lower top into box
+* [ ] release silver latches on sides by pressing
+* [ ] reach into box, pull up on red handle to collapse box
+* [ ] press box closed until silver latches engage&#x20;
+* [ ] turn off and store the UPS power backup
