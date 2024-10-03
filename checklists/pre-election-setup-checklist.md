@@ -25,7 +25,7 @@ To prepare for an election, complete the following steps:
 * [ ] remove and securely store USB drive
 * [ ] lock VxAdmin
 
-&#x20;  **VxScan CVR Files**
+&#x20;  **VxScan Log Files**
 
 * [ ] setup the VxScan, without the ballot box
 * [ ] insert Election Manager Card
