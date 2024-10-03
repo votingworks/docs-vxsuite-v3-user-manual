@@ -16,6 +16,7 @@
 * [ ] seal or lock the ballot box door as required
 * [ ] confirm the auxiliary bin is empty
 * [ ] seal or lock the auxiliary bin door as required
+* [ ] document seals as required
 
 #### Setup the soft-sided ballot box
 

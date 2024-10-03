@@ -8,6 +8,7 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 
 * [ ] set up VxScan (with or without ballot box)
 * [ ] insert Election Manager Card
+* [ ] insert a formatted USB drive
 * [ ] select _`Official Ballot Mode`_
 * [ ] select System Settings from the side menu and verify the date and time by selecting _`Set Date and Time`_
 * [ ] remove the Election Manager Card&#x20;
@@ -39,7 +40,7 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] select _`Power Down`_
 * [ ] remove Poll Worker Card
 * [ ] remove the USB drive from the interior panel and secure&#x20;
-* [ ] insert a new USB drive (with election loaded from VxAdmin)
+* [ ] insert a new formatted USB drive
 * [ ] unplug the power cord from VxScan and the outlet
 * [ ] insert the power cord into its storage location
 * [ ] clean the scanning unit

@@ -22,7 +22,7 @@ To prepare for an election, complete the following steps:
 * [ ] select Settings from the side menu&#x20;
 * [ ] select _`Save Log File`_
 * [ ] select _`eject USB`_
-* [ ] remove, and securely store USB drive
+* [ ] remove and securely store USB drive
 * [ ] lock VxAdmin
 
 &#x20;  **VxScan CVR Files**
