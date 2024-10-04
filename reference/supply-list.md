@@ -11,6 +11,14 @@ When using a third party printer, VotingWorks recommends printing ballots on pap
 * 90# Index (162 GSM)
 * 65# Cover (177 GSM)&#x20;
 
+### Thermal paper for Tally Reports
+
+VotingWorks delivers a starter pack of thick thermal paper with every VxScan. Currently, this paper can only be ordered directly from VotingWorks for $1.50 / sheet.
+
+Thinner paper can be used, it lacks printed directions about which side is which. This can be ordered online from B\&H Photo:
+
+[https://www.bhphotovideo.com/c/product/376633-REG/Brother\_LB3635\_Quality\_Paper\_8\_5x11.html](https://www.bhphotovideo.com/c/product/376633-REG/Brother\_LB3635\_Quality\_Paper\_8\_5x11.html)
+
 ### Marking Utensils
 
 There is no specific recommendation for a marking utensil but it should be an ink pen that dries quickly. No markers.
@@ -18,10 +26,29 @@ There is no specific recommendation for a marking utensil but it should be an in
 ### Seal & Port Blocker Requirements
 
 The VxScan, ballot box, and VxAdmin and VxCentralScan cases should be secured with tamper evident numbered pull-tight seals like this: [https://www.cambridgeseals.com/heavy-duty-pull-tight-seal](https://www.cambridgeseals.com/heavy-duty-pull-tight-seal)\
-\
+or\
+[https://www.mcmaster.com/21075T2-21075T213/](https://www.mcmaster.com/21075T2-21075T213/)\
+
+
 VxAdmin and VxCentralScan micro SD slots should be secured with transfer tamper evident sticker seals like this: [https://www.amazon.com/Transfer-Evident-Security-Warranty-Numbers/dp/B07GPGGQ5Y/](https://www.amazon.com/Transfer-Evident-Security-Warranty-Numbers/dp/B07GPGGQ5Y/) \
 \
 VxAdmin and VxCentralScan laptop ports should be blocked with port blockers like this: [https://a.co/d/5zHubox](https://a.co/d/5zHubox)
+
+
+
+### VxScan cleaning supplies
+
+To clean the scanner, we recommend these cloth cleaning sheets:\
+[https://www.amazon.com/Fujitsu-Cleaning-Paper-10-Sheet/dp/B004UTSCS4](https://www.amazon.com/Fujitsu-Cleaning-Paper-10-Sheet/dp/B004UTSCS4)\
+
+
+And standard isopropyl alcohol 70%+, for example:
+
+[https://www.amazon.com/gp/product/B08LQRNR65](https://www.amazon.com/gp/product/B08LQRNR65)&#x20;
+
+\
+You can also use a microfiber cloth with isopropyl alcohol for direct cleaning:\
+[https://www.amazon.com/gp/product/B0050R67U0](https://www.amazon.com/gp/product/B0050R67U0)
 
 ### Toner Cartridges
 
@@ -32,7 +59,19 @@ The HP printers for the VxAdmin (if purchased) use toner cartridge 58. HP offers
 
 ## USB Drive Recommendations and Compatibility
 
-VotingWorks supports any USB 3.0+ drive that is 16GB or greater.&#x20;
+VotingWorks recommends the following USB drive models.
 
-Larger capacity drives may be necessary when scanning large volumes (over 10,000) of ballots on VxCentralScan.
+Samsung BAR Plus 64GB
+
+[https://www.amazon.com/dp/B07BPGF6N3](https://www.amazon.com/dp/B07BPGF6N3)&#x20;
+
+MicroCenter 16GB\
+[https://www.amazon.com/Center-SuperSpeed-Memory-Storage-10-Pack/dp/B09YCYQTWV](https://www.amazon.com/Center-SuperSpeed-Memory-Storage-10-Pack/dp/B09YCYQTWV)
+
+SanDisk 16GB
+
+[https://www.amazon.com/SanDisk-512GB-Ultra-Flair-Flash/dp/B015CH1GTO](https://www.amazon.com/SanDisk-512GB-Ultra-Flair-Flash/dp/B015CH1GTO)&#x20;
+
+\
+
 
