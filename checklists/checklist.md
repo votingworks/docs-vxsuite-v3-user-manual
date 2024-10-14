@@ -86,7 +86,7 @@
 * [ ] remove the USB drive from the interior panel and secure as required
 
 {% hint style="warning" %}
-Single polling place jurisdictions may want to skip to the [Election Night Checklist](election-night-checklist.md) at this time to verify CVRs were properly saved before packing up equipment
+**Single polling place jurisdictions** may want to skip to the [Election Night Checklist](election-night-checklist.md) at this time to verify CVRs were properly saved before packing up equipment
 {% endhint %}
 
 ### [Packing Up VxScan](checklist.md#packing-up-vxscan)
