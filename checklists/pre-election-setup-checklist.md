@@ -17,8 +17,9 @@ To prepare for an election, complete the following steps:
 * [ ] select _`Full Election Tally Report`_
 * [ ] select _`Export Report PDF`_
 * [ ] select _`Export Report CSV`_
-* [ ] lock the machine
-* [ ] insert System Administrator Card
+* [ ] select Reports from the side menu
+* [ ] select  official _`Write-in Adjudication Report`_&#x20;
+* [ ] select _`Export Report PDF`_
 * [ ] select Settings from the side menu&#x20;
 * [ ] select _`Save Log File`_
 * [ ] select _`eject USB`_
