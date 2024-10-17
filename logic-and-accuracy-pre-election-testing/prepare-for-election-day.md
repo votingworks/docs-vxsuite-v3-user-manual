@@ -2,9 +2,13 @@
 
 ### Remove CVRs from VxAdmin
 
-When L\&A is complete, select Tally from the side menu, then select _`Remove CVRs`_ to clear VxAdmin of CVRs to prepare for election day. Confirm by selecting _`Remove CVRs`_ in the popup confirmation screen.
+When L\&A is complete, select Tally from the side menu, then select _`Remove CVRs`_ to clear VxAdmin of CVRs to prepare for election day. Confirm by selecting _`Remove CVRs`_ in the popup confirmation screen. Then select _`Remove Manual Tallies`_ to remove the manual tallies.  Confirm by selecting _`Remove All Manual Tallies`_ in the popup confirmation screen.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt="" width="267"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (878).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Alternatively, if you marked results as official, select _`Clear All Results`_ to remove all tallies. Confirm by selecting _`Remove All Data`_ in the popup confirmation screen.
+
+<figure><img src="../.gitbook/assets/image (879).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Toggle VxScan to Official Ballot Mode
 
