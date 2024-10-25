@@ -61,7 +61,8 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] select _`Save Log File`_
 * [ ] select Tally from the side menu
 * [ ] select _`Remove CVRs`_
-* [ ] select _`Remove manual tallies`_
+* [ ] select _`Remove Manual Tallies`_
+* [ ] alternatively, if you marked results as official, select _`Clear All Results`_ and confirm by selecting _`Remove All Data`_
 * [ ] verify there are no CVRs on VxAdmin
 * [ ] power down the VxAdmin
 * [ ] remove and secure the USB drive as required
