@@ -129,3 +129,5 @@
 * [ ] reach into box, pull up on red handle to collapse box
 * [ ] press box closed until silver latches engage&#x20;
 * [ ] turn off and store the UPS power backup
+
+Last updated October 14, 2024.
