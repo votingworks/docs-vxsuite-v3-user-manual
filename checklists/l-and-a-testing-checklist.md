@@ -68,3 +68,5 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] remove and secure the USB drive as required
 * [ ] pack up VxAdmin
 * [ ] close, seal, and document the VxAdmin case as required
+
+Last updated October 25, 2024.
