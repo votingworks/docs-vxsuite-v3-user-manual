@@ -26,3 +26,5 @@ On election night, you will need [VxAdmin](../central-system-setup/vxadmin-hardw
 * [ ] turn off the VxAdmin by pressing and holding the power button for a second and releasing
 * [ ] pack up VxAdmin, seal and document as required
 
+Last updated October 14, 2024.
+
