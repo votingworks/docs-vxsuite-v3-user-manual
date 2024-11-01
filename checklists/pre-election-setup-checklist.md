@@ -115,3 +115,5 @@ To prepare for an election, complete the following steps:
 * [ ] securely store Election Manager Card
 * [ ] repeat on each VxScan
 
+Last updated October 14, 2024.
+
