@@ -13,9 +13,9 @@ When using a third party printer, VotingWorks recommends printing ballots on pap
 
 ### Thermal paper for Tally Reports
 
-VotingWorks delivers a starter pack of thick custom thermal paper with every VxScan. Currently, this paper can only be ordered directly from VotingWorks for $1.50 / sheet. Use this [order form](https://docs.google.com/forms/d/1RtTbme5MPI\_CoafPLad6-7UuNb6uQi7hSNZGagNcCb0/edit) to order more.&#x20;
+VotingWorks delivers a starter pack of thick custom thermal paper with every VxScan. Currently, this paper can only be ordered directly from VotingWorks for $1.50 / sheet. Use this [order form](https://docs.google.com/forms/d/1RtTbme5MPI_CoafPLad6-7UuNb6uQi7hSNZGagNcCb0/edit) to order more.&#x20;
 
-Off the shelf, thinner thermal paper may also be used (please note it lacks printed directions about which side to insert face up) like this: [https://www.bhphotovideo.com/c/product/376633-REG/Brother\_LB3635\_Quality\_Paper\_8\_5x11.html](https://www.bhphotovideo.com/c/product/376633-REG/Brother\_LB3635\_Quality\_Paper\_8\_5x11.html)
+Off the shelf, thinner thermal paper may also be used (please note it lacks printed directions about which side to insert face up) like this: [https://www.bhphotovideo.com/c/product/376633-REG/Brother\_LB3635\_Quality\_Paper\_8\_5x11.html](https://www.bhphotovideo.com/c/product/376633-REG/Brother_LB3635_Quality_Paper_8_5x11.html)
 
 ### Marking Utensils
 
@@ -50,7 +50,7 @@ The HP printers for the VxAdmin (if purchased) use toner cartridge 58. HP offers
 
 ### USB Drive Recommendations and Compatibility
 
-VotingWorks supports any USB 3.0+ drive that is 16GB or greater.
+USB drives can be ordered directly from VotingWorks via the [supply order form](https://docs.google.com/forms/d/1RtTbme5MPI_CoafPLad6-7UuNb6uQi7hSNZGagNcCb0/edit). [SanDisk Ultra Flair USB 3.0 Flash Drive - 64GB](https://shop.sandisk.com/products/usb-flash-drives/sandisk-ultra-flair-usb-3-0?sku=SDCZ73-064G-G46) must be used.
 
 Larger capacity drives may be necessary when scanning large volumes (over 10,000) of ballots on VxCentralScan.
 
