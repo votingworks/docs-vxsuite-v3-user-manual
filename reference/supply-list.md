@@ -11,6 +11,11 @@ When using a third party printer, VotingWorks recommends printing ballots on pap
 * 90# Index (162 GSM)
 * 65# Cover (177 GSM)&#x20;
 
+If printing ballots, in addition to the paper specifications above, be sure to do the following:
+
+* print at 100% scale (don’t adjust)
+* ensure that all ballots print properly with completely black timing marks (boxes bordering the ballot) and QR codes with no visual imperfections
+
 ### Thermal paper for Tally Reports
 
 VotingWorks delivers a starter pack of thick custom thermal paper with every VxScan. Currently, this paper can only be ordered directly from VotingWorks for $1.50 / sheet. Use this [order form](https://docs.google.com/forms/d/1RtTbme5MPI_CoafPLad6-7UuNb6uQi7hSNZGagNcCb0/edit) to order more.&#x20;
