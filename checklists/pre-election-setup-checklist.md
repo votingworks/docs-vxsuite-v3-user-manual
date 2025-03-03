@@ -1,12 +1,12 @@
 # Pre-Election Setup Checklist
 
-{% hint style="warning" %}
-If all files were saved on election night or post-election, skip to Remove Previous Election Files.
-{% endhint %}
-
 To prepare for an election, complete the following steps:
 
 ### Retain Previous Election Files
+
+{% hint style="warning" %}
+If all files were saved on election night or post-election, skip to Remove Previous Election Files.
+{% endhint %}
 
 &#x20; **VxAdmin**
 
@@ -32,7 +32,7 @@ To prepare for an election, complete the following steps:
 * [ ] insert Election Manager Card
 * [ ] select CVRs and Logs from the side menu
 * [ ] insert a USB drive
-* [ ] select_`Save Log File`_
+* [ ] selec&#x74;_`Save Log File`_
 * [ ] select _`Save CVRs (this may take a few minutes)`_
 * [ ] select _`Eject USB`_
 * [ ] remove USB
